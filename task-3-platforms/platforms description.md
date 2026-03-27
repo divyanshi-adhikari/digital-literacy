@@ -7,11 +7,13 @@ Additionally, I created a Digital Literacy Awareness Quiz using Google Forms con
 
 These tools are highly beneficial for academic growth as they support coding practice, data collection, and effective collaboration.
 
-### Google Form
+### HackerRank (Part A)
+![HackerRank](hackerrank%20(Part%20A-%20coding%20practice).jpeg)
+
+### Google Form (Part B)
 ![Google Form](google-form%20(Part%20B).jpeg)
 
-### Google Sheet
+### Google Sheet (Part B)
 ![Google Sheet](google-sheet%20(Part%20B).jpeg)
 
-### HackerRank
-![HackerRank](hackerrank%20(Part%20A-%20coding%20practice).jpeg)
+
