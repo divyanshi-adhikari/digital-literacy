@@ -8,4 +8,4 @@ This highlights how digital literacy helps students use technology effectively, 
 
 **Link:** https://www.canva.com/design/DAHFHyNwP_o/D8EBk9AiWTpnO8uBNZ1sag/edit?utm_content=DAHFHyNwP_o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-![Digital Infographic](task-1-presentation/digital-infographic.png)
+![Digital Infographic](digital-infographic.png)
